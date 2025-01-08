@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "icc2022.xyz",
+        "icc2022.de",
+        "czhch.com",
+        "m-team.cc",
+        "nicept.net",
+        "pttime.org",
+        "nextpt.net",
+        "hdkyl.in"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "icc2022",
+        "m-team",
+        "czhch",
+        "nicept",
+        "pttime",
+        "nextpt",
+        "hdkyl"
+      ]
+    }
+  ]
+}
