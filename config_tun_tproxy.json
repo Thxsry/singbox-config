@@ -46,7 +46,7 @@
       "listen_port": 7895,
       "sniff": true,
       "sniff_override_destination": false,
-      "network": "tcp"  // 仅代理 TCP 流量
+      "network": "tcp"  
     },
     {
       "type": "tun",
@@ -57,7 +57,7 @@
       "endpoint_independent_nat": true,
       "sniff": true,
       "sniff_override_destination": false,
-      "network": "udp"  // 仅代理 UDP 流量
+      "network": "udp"  
     }
   ],
 
